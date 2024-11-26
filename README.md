@@ -59,11 +59,7 @@ Usage
 
     `uvicorn app.main:app --reload`
 
-2.  **Access the API documentation**:
-
-    Visit <http://127.0.0.1:8000/docs> to explore the available endpoints.
-
-3.  **Interact with the API**:
+2.  **Interact with the API**:
 
     -   **Create a room**: `POST /create_room`
     -   **List rooms**: `GET /get_rooms`
